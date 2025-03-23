@@ -2,31 +2,31 @@
     "equipoMedico": [
         {
             "id": 1,
-            "nombre": "Dr. Juan Pérez",
+            "nombre": "Dra. Evelin Pérez",
             "especialidad": "Cardiología",
             "horario": "Lunes a Viernes, 9:00 AM - 5:00 PM"
         },
         {
             "id": 2,
-            "nombre": "Dra. María López",
+            "nombre": "Dra. Carla García",
             "especialidad": "Pediatría",
             "horario": "Martes y Jueves, 2:00 PM - 6:00 PM"
         },
         {
             "id": 3,
-            "nombre": "Dr. Carlos Gómez",
+            "nombre": "Dr. Mauro Cepeda",
             "especialidad": "Ginecología",
             "horario": "Lunes, Miércoles y Viernes, 10:00 AM - 4:00 PM"
         },
         {
             "id": 4,
-            "nombre": "Dra. Ana Ramírez",
+            "nombre": "Dra. Ana Rodríguez",
             "especialidad": "Dermatología",
             "horario": "Martes a Sábado, 8:00 AM - 1:00 PM"
         },
         {
             "id": 5,
-            "nombre": "Dr. Felipe Rodriguez",
+            "nombre": "Dr. Prudencio Díaz",
             "especialidad": "Medicina general",
             "horario": "Martes a Sábado, 8:00 AM - 1:00 PM"
         }

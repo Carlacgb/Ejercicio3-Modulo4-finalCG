@@ -17,10 +17,6 @@ La aplicación está estructurada con los siguientes componentes principales:
 -   `data.json`: Contiene datos simulados para el equipo médico y servicios.
 -  `servicios.json`: Contiene datos simulados de los servicios ofrecidos.
 
-## Detalles de la Implementación
-
-Esta aplicación cumple con los siguientes requisitos:
-
 ### 1. Implementación de Vistas Complejas con ReactJS
 
 -   **Vista Principal (Home) (`Home.jsx`):** Muestra los servicios destacados e información del hospital, utiliza refs para un desplazamiento suave.
